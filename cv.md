@@ -21,3 +21,15 @@ function multiply(a, b) {
   return a * b;
 } 
 ```
+## Courses
+- **Hexlet** – JavaScript for Beginners  
+- **Udemy** – JavaScript Essentials  
+- **Coursera** – HTML, CSS, and JavaScript for Web Developers  
+- **Coursera** – UI / UX Design  
+- **TildaSchool** – Tilda Start  
+
+## Education
+- **Plekhanov Russian University of Economics**  
+
+## English
+- **B2 – Intermediate** (I lived in the Netherlands for 4 years, which gave me plenty of practice in speaking English)
