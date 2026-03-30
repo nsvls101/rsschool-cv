@@ -37,6 +37,7 @@ body {
   justify-content: flex-start;
   align-items: center;
   list-style: none;
+  padding: 0;
 }
 
 .nav-link {
@@ -78,6 +79,10 @@ body {
   padding: 10px;
   padding-bottom: 35px;
   border-bottom: 2px solid #0d32c5;
+}
+
+.section-list {
+  padding-left: 20px;
 }
 
 .section-profile-logo {
