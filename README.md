@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nsvls101.github.io/rsschool-cv/cv
